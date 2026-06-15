@@ -1,4 +1,4 @@
-# dFC-Isomap: Manifold Learning of Dynamic Functional Connectivity Trajectories
+# Manifold Learning of Dynamic Functional Connectivity Trajectories
 
 Official implementation of CogSci 2026 paper **“Looped Manifold Trajectories of Dynamic Functional Connectivity Reveal Continuous Task-related Brain Reconfiguration”**.
 
